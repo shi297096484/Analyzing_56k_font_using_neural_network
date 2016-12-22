@@ -1,4 +1,4 @@
-# Final project for E6893 Big Data Analytic
+# Final project for E6893 Big Data Analytics
 
 ## Group Index:  201605-96
 
@@ -11,7 +11,7 @@
 #### Before you run the code, make sure that:
 
 * Check the requirement.txt file
-* It is highly recommended that use anaconda in installing TensorFlow
+* It is highly recommended that you use anaconda in installing TensorFlow
 
 ```
 $ cd ~/(Your local path)/Analyzing_56k_font_using_neural_network/tf-embedding-visualization

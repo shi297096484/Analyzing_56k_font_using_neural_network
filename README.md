@@ -1,4 +1,4 @@
-# Final project for E6893 Big Data Analytic
+# Final project for E6893 Big Data Analytics
 
 ## Group Index:  201605-96
 
@@ -30,8 +30,7 @@
 ### Download Dataset
 
 ```
-wget https://s3.amazonaws.com/erikbern/fonts.hdf5  
-
+$ wget https://s3.amazonaws.com/erikbern/fonts.hdf5  
 ```
 
 ### Youtube Video
